@@ -10,12 +10,12 @@
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "06_14_H_E_R_M_I_T_5A3FP0L"
     },
     "SUDO": {
       "description": "owner number of the bot",
       "required": true,
-      "value": "null"
+      "value": "254754394479"
     },
     "MODE": {
       "description": "mode public or private",
@@ -25,7 +25,7 @@
     "ALWAYS_ONLINE": {
       "description": "show bot number last seen as online",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered",
@@ -68,7 +68,7 @@
     "AUTO_STATUS_VIEW": {
       "description": "automatic read status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "REJECT_CALL": {
       "description": "automatic reject call",
